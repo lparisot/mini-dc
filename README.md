@@ -2,7 +2,7 @@
 
 This project is part of the Coursera "Cloud Networking" cours. It contains only the source code of the controller.
 
-Using a network emulator called Mininet (http://mininet.org/), we will emulating a datacenter.
+Using a network emulator called Mininet (http://mininet.org/), we will emulating a data-center.
 
 The datacenter topology will consist of two levels of switches. The top level are called core switches and the bottom are called edge switches.
 
